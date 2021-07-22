@@ -1,6 +1,6 @@
 {
-  "name": "Sqrt",
-  "description": "Square root of the given data",
+  "name": "Square Root",
+  "description": "Calculates the number which (when multiplied by itself) will give the cell value.",
   "tags": ["data wrangling", "data transformation", "transform"],
   "authors": ["tercen"],
   "urls": ["https://github.com/tercen/sqrt_operator"]
