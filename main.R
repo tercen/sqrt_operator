@@ -1,10 +1,11 @@
 library(tercen)
 library(dplyr)
 
-(ctx = tercenCtx())  %>% 
+ctx <- tercenCtx()
+
+ctx %>% 
   select(.y, .ci, .ri) %>% 
   group_by(.ci, .ri) %>%
-  summarise( sqrt = sqrt(mean(.y)) )%>%
+  summarise( sqrt = sqrt(mean(.y))) %>%
   ctx$addNamespace() %>%
   ctx$save()
- 
