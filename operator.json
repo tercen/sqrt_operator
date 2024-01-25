@@ -1,9 +1,14 @@
 {
   "name": "Square Root",
   "description": "Calculates the number which (when multiplied by itself) will give the cell value.",
-  "tags": ["data wrangling", "data transformation", "transform"],
-  "authors": ["tercen"],
-  "urls": ["https://github.com/tercen/sqrt_operator"]
+  "tags": [
+    "preprocessing",
+    "transformation"
+  ],
+  "authors": [
+    "tercen"
+  ],
+  "urls": [
+    "https://github.com/tercen/sqrt_operator"
+  ]
 }
-
-
