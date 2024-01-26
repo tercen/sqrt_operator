@@ -1,6 +1,6 @@
 {
   "name": "Square Root",
-  "description": "Calculates the number which (when multiplied by itself) will give the cell value.",
+  "description": "Calculates the number which, when multiplied by itself, will give the cell value.",
   "tags": [
     "preprocessing",
     "transformation"
