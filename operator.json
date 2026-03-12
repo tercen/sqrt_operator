@@ -47,7 +47,7 @@
               {
                 "kind": "MetaFactor",
                 "name": "Measurement",
-                "type": "numeric",
+                "type": "double",
                 "description": "Values to compute square root of",
                 "ontologyMapping": "measurement",
                 "crosstabMapping": "y",
